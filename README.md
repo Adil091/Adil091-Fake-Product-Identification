@@ -34,37 +34,37 @@ npm run start
 1. Dashboard UI :
 <br>
 
-![Dashboard UI]()
+![Dashboard UI](https://github.com/Adil091/Adil091-Fake-Product-Identification/blob/master/Design-Images/Dashboard%20UI.png)
 
 <br>
-1. Brand Login :
+2. Brand Login :
 
-![Brand login UI]()
-
-<br>
-1. Verify product at customer UI :
-
-![Verify product at customer UI]()
+![Brand login UI](https://github.com/Adil091/Adil091-Fake-Product-Identification/blob/master/Design-Images/Brand%20login%20UI.png)
 
 <br>
-1. Home Page :
+3. Verify product at customer UI :
 
-![Home page UI]()
-
-<br>
-1. Fetch Address UI :
-
-![Fetch address UI]()
+![Verify product at customer UI](https://github.com/Adil091/Adil091-Fake-Product-Identification/blob/master/Design-Images/Verify%20product%20at%20customer%20UI.png)
 
 <br>
-1. Add Product :
+4. Home Page :
 
-![Add product UI]()
+![Home page UI](https://github.com/Adil091/Adil091-Fake-Product-Identification/blob/master/Design-Images/Home%20page%20UI.png)
+
+<br>
+5. Fetch Address UI :
+
+![Fetch address UI](https://github.com/Adil091/Adil091-Fake-Product-Identification/blob/master/Design-Images/Fetch%20address%20UI.png)
+
+<br>
+6. Add Product :
+
+![Add product UI](https://github.com/Adil091/Adil091-Fake-Product-Identification/blob/master/Design-Images/Add%20product%20UI.png)
 
 <br>
 
-1. Verify Product at Brand :
+7. Verify Product at Brand :
 
-![Verify product at Brand UI]()
+![Verify product at Brand UI](https://github.com/Adil091/Adil091-Fake-Product-Identification/blob/master/Design-Images/Verify%20product%20at%20Brand%20UI.png)
 
 <br>
